@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "CBornSite",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -49,7 +49,11 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
